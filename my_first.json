@@ -1,6 +1,6 @@
 {
   "url": "https://sqs.ap-south-1.amazonaws.com/094047362290/jenkinsqueue",
   "message": "s3-lambda-sqs",
-  "dynamoTable":"jenkins",
+  "dynamoTable":"jenkins1",
   "item":"'roll number':1"
 }
